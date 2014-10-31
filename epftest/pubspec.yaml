@@ -1,0 +1,6 @@
+name: epftest
+description: A sample web application
+dependencies:
+  browser: any
+  leafepf:
+    path: ../leafepf

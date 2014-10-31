@@ -1,0 +1,5 @@
+name: leafepf
+author: Stefan Ladage
+description: A pub package
+dependencies:
+  http: any
